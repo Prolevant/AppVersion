@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.2",
-  "latestVersionCode": "3",
-  "url":"https://raw.githubusercontent.com/ProsoftProsoft/AppVersion/master/ProTv_Launcher-20190107.apk" ,
+  "latestVersion": "1.4",
+  "latestVersionCode": "4",
+  "url":"https://raw.githubusercontent.com/ProsoftProsoft/AppVersion/master/ProTv_Launcher-2019-02-2019.apk" ,
   "releaseNotes": [
-    "- Second version"
+    "- New features"
   ]
 }

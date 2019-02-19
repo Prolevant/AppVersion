@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.4",
-  "latestVersionCode": "4",
-  "url":"https://raw.githubusercontent.com/ProsoftProsoft/AppVersion/master/ProTv_Launcher-2019-02-2019.apk" ,
+  "latestVersion": "1.5",
+  "latestVersionCode": "5",
+  "url":"https://raw.githubusercontent.com/ProsoftProsoft/AppVersion/master/iptv-release-20190219.apk" ,
   "releaseNotes": [
-    "- New features"
+    "full info account , customize launcher provider "
   ]
 }

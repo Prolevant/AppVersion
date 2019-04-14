@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.8",
-  "latestVersionCode": "8",
-  "url":"https://raw.githubusercontent.com/ProsoftProsoft/AppVersion/master/iptv-release-20190318-1.8.apk" ,
+  "latestVersion": "1.9",
+  "latestVersionCode": "9",
+  "url":"https://raw.githubusercontent.com/ProsoftProsoft/AppVersion/master/app-iptv-launcher-24-1.9-release.apk" ,
   "releaseNotes": [
-    "عند بدء التحديث ،الرجاء الانتظار حتى الانتهاء من العملية"
+    "تحسينات في الآداء و معالجة أخطاء"
   ]
 }

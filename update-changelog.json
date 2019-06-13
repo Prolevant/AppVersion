@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.9.3",
-  "latestVersionCode": "12",
-  "url":"https://raw.githubusercontent.com/ProsoftProsoft/AppVersion/master/iptv-release-06-03-1.9.3.apk" ,
+  "latestVersion": "1.9.4",
+  "latestVersionCode": "13",
+  "url":"https://raw.githubusercontent.com/ProsoftProsoft/AppVersion/master/iptv-version-1.9.4-06-13.apk" ,
   "releaseNotes": [
-    "تعديلات في واجهة الراديو، واصلاح بعض المشاكل"
+    "اصلاح بعض المشاكل"
   ]
 }

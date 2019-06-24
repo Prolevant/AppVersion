@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.9.6",
-  "latestVersionCode": "15",
-  "url":"https://raw.githubusercontent.com/ProsoftProsoft/AppVersion/master/iptv-release-v1.9.6-06-23.apk" ,
+  "latestVersion": "1.9.7",
+  "latestVersionCode": "16",
+  "url":"https://raw.githubusercontent.com/ProsoftProsoft/AppVersion/master/iptv-release-1.9.7-06-24.apk" ,
   "releaseNotes": [
-    "إضافة مركز الترفيه ، إصلاح بعض المشاكل"
+    "دعم اللغة العربية في مركز الترفيه"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "latestVersion": "1.9.11",
   "latestVersionCode": "20",
-  "https://raw.githubusercontent.com/ProsoftProsoft/AppVersion/master/iptv-launcher-V1.9.11-encrypted-08-28.apk" ,
+  "url":"https://raw.githubusercontent.com/ProsoftProsoft/AppVersion/master/iptv-launcher-V1.9.11-encrypted-08-28.apk" ,
   "releaseNotes": [
     "دعم شاشات الذكية ، دعم سرعة استجابة الراديو ، دعم وضع ملئ الشاشة عند المشاهدة ، اصلاح بعض الأخطاء"
   ]

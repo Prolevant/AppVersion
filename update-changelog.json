@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.9.17",
-  "latestVersionCode": "26",
-  "url":"https://raw.githubusercontent.com/ProsoftProsoft/AppVersion/master/iptv-launcher-V1.9.17-encrypted-10-10.apk" ,
+  "latestVersion": "1.9.18",
+  "latestVersionCode": "27",
+  "url":"https://raw.githubusercontent.com/ProsoftProsoft/AppVersion/master/iptv-launcher-V1.9.18-encrypted-11-07.apk" ,
   "releaseNotes": [
-    "اصلاح بعض المشاكل ، ومعالجة بعض الأخطاء"
+    "دعم تشغيل القنوات على جميع الأجهزة ، دعم الأجهزة الحديثة، معالجة أخطاء"
   ]
 }

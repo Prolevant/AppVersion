@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.9.23",
-  "latestVersionCode": "32",
-  "url":"https://raw.githubusercontent.com/ProsoftProsoft/AppVersion/master/iptv-launcher-V1.9.23-03-05.apk" ,
-  "urlApp":"https://raw.githubusercontent.com/ProsoftProsoft/AppVersion/master/iptv-launcher-V1.9.23-03-05-app.apk" ,
+  "latestVersion": "1.9.24",
+  "latestVersionCode": "33",
+  "url":"https://raw.githubusercontent.com/ProsoftProsoft/AppVersion/master/iptv-launcher-V1.9.24-03-05.apk" ,
+  "urlApp":"https://raw.githubusercontent.com/ProsoftProsoft/AppVersion/master/iptv-launcher-V1.9.24-03-05-app.apk" ,
   "releaseNotes": [
     "اصلاح بعض المشاكل ، ومعالجة بعض الأخطاء"
   ]

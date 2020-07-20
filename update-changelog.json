@@ -1,9 +1,9 @@
 {
-  "latestVersion": "1.10.0",
-  "latestVersionCode": "35",
-  "url":"https://raw.githubusercontent.com/ProsoftProsoft/AppVersion/master/iptv-launcher-V1.10.0-06-28.apk" ,
-  "urlApp":"https://raw.githubusercontent.com/ProsoftProsoft/AppVersion/master/iptv-launcher-V1.10.0-06-28-app.apk" ,
+  "latestVersion": "1.11.0",
+  "latestVersionCode": "36",
+  "url":"https://raw.githubusercontent.com/ProsoftProsoft/AppVersion/master/iptv-launcher-V1.11.0-07-20.apk" ,
+  "urlApp":"https://raw.githubusercontent.com/ProsoftProsoft/AppVersion/master/iptv-launcher-V1.11.0-07-20-app.apk" ,
   "releaseNotes": [
-    "إضافة مكتبة الموسيقى بحلتها الجديدة، أهم الميزات المُضافة: عرض الفنانين والألبومات والأغاني و الفلترة والبحث ضمن البيانات ، إمكانية إضافة الأغاني إلى المفضلة و إنشاء قوائم تشغيل جديدة"
+    "إضافة تطبيق اليوتيوب بكافه مزاياه المختلفة ، وأيضا تم إضافة القرآن الكريم "
   ]
 }

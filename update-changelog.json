@@ -1,9 +1,9 @@
 {
-  "latestVersion": "1.11.0",
-  "latestVersionCode": "35",
-  "url":"https://raw.githubusercontent.com/ProsoftProsoft/AppVersion/master/iptv-launcher-V1.11.0-07-20.apk" ,
-  "urlApp":"https://raw.githubusercontent.com/ProsoftProsoft/AppVersion/master/iptv-launcher-V1.11.0-07-20-app.apk" ,
+  "latestVersion": "2.0.14",
+  "latestVersionCode": "54",
+  "url":"https://raw.githubusercontent.com/ProsoftProsoft/AppVersion/master/iptv-launcher-V2.0.14-09-30.apk" ,
+  "urlApp":"https://raw.githubusercontent.com/ProsoftProsoft/AppVersion/master/iptv-launcher-V2.0.14-09-30-app.apk" ,
   "releaseNotes": [
-    "إضافة تطبيق اليوتيوب بكافه مزاياه المختلفة ، وأيضا تم إضافة القرآن الكريم "
+    "معالجة أخطاء وتحسين أداء"
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "latestVersion": "3.0.4",
-  "latestVersionCode": "69",
-  "url":"https://raw.githubusercontent.com/ProsoftProsoft/AppVersion/master/iptv-launcher-V3.0.4-27-04-21.apk" ,
-  "urlApp":"https://raw.githubusercontent.com/ProsoftProsoft/AppVersion/master/iptv-launcher-V3.0.4-27-04-21-app.apk" ,
+  "latestVersion": "3.1.0",
+  "latestVersionCode": "70",
+  "url":"https://raw.githubusercontent.com/ProsoftProsoft/AppVersion/master/iptv-launcher-V3.1.0-12-08-21.apk" ,
+  "urlApp":"https://raw.githubusercontent.com/ProsoftProsoft/AppVersion/master/iptv-launcher-V3.1.0-12-08-21-app.apk" ,
   "releaseNotes": [
-    "معالجة الأخطاء وتحسين الأداء" ,"تم تعديل واجهة تفاصيل الفيلم","تم تعديل في واجهة الترجمة وخيارات الترجمة" 
-
+    "معالجة الأخطاء وتحسين الأداء" ,"إعادة عرض واجهة الترفيه","دعم الترجمة على بعض الأجهزة" ,
+ "معالجة الأخطاء في مكتبة الموسيقى" ,"دعم الزمن الحقيقي في قائمة القنوات","تم تعديل عرض الواجهات في أجهزة شاومي" 
   ]
 }
